@@ -1,2 +1,2 @@
 # Python_Training-
-Notebook
+Juypter Notebook
